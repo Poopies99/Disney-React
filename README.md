@@ -10,7 +10,7 @@ This github repository contains the project code for Disney-React Full-Stack pro
 2. Create React App
 3. React Router Dom
 4. Styled Components
-5. CSS
+5. HTML & CSS
   
 ## Storage:
 
