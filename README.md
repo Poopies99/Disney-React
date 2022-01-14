@@ -1,10 +1,8 @@
 # Disney-React
 
-Disney-React is the Disney+ platform built using React and Firebase
+This github repository contains the project code for Disney-React Full-Stack project, a fully funtional repsonsive Disney+ inspired website that is built using ReactJS and Firebase.
 
 ## <a href="https://disney-react-952fa.web.app/" target="_blank"><u>Click here to access website<u></a>
-
-This github repository contains the project code for Disney-React Full-Stack project, a fully funtional repsonsive website that is built using ReactJS and Firebase.
   
 ## Frameworks:
 	
