@@ -1,0 +1,41 @@
+.Player {
+  font-size: 15px;
+  margin: 0px 22px 0px 0px;
+  padding: 0px 24px;
+  height: 56px;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: 1.8px;
+  text-align: center;
+  text-transform: uppercase;
+  background: rgb (249, 249, 249);
+  border: none;
+  color: rgb(0, 0, 0);
+  border: 1px solid rgb(249, 249, 249);
+  background-color: white;
+}
+
+.Player > img {
+  width: 32px;
+}
+
+.Player:hover {
+  background: rgb(198, 198, 198);
+}
+
+@media only screen and (min-width) {
+  .Player {
+    height: 45px;
+    padding: 0px 12px;
+    font-size: 12px;
+    margin: 0px 10px 0px 0px;
+  }
+
+  .Player > img {
+      width: 25px;
+  }
+}
+

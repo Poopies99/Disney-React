@@ -1,0 +1,17 @@
+.Home {
+  min-height: calc(100vh -250px);
+  overflow-x: hidden;
+  display: block;
+  top: 72px;
+  padding: 0 calc(3.5vw + 5px);
+}
+
+.Home::after {
+  background: url("/Users/chris/Desktop/Git/Disney-React/disney-react/public/images/home-background.png") center center / cover no-repeat
+    fixed;
+  content: "";
+  position: absolute;
+  inset: 0px;
+  opacity: 1;
+  z-index: -1;
+}
