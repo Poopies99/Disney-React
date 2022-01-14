@@ -4,12 +4,13 @@ This github repository contains the project code for Disney-React Full-Stack pro
 
 ## <a href="https://disney-react-952fa.web.app/" target="_blank"><u>Click here to access website<u></a>
   
-## Frameworks:
+## Frameworks & Design:
 	
 1. Redux
 2. Create React App
 3. React Router Dom
 4. Styled Components
+5. CSS
   
 ## Storage:
 
