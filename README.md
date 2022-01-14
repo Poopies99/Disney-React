@@ -11,7 +11,7 @@ This github repository contains the project code for Disney-React Full-Stack pro
 3. React Router Dom
 4. Styled Components
   
-##Storage:
+## Storage:
 
 Firebase - Google: Utilized Firebase as a backend Database to Host, Authenticate, Analyze and Store User Information
 
