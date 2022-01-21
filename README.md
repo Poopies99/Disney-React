@@ -15,6 +15,8 @@ This github repository contains the project code for Disney-React Full-Stack pro
 ## Storage:
 
 Firebase - Google: Utilized Firebase as a backend Database to Host, Authenticate, Analyze and Store User Information
+	
+Display content by Fetching data from Firebase Data Base
 
 ## Views:
 
